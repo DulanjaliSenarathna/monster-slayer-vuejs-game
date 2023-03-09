@@ -16,3 +16,11 @@ You can play as a player and, monster will automatically play.
 9. If you both are destroyed the game will draw.
 10. You can also see battle log.
 
+# Screenshots
+![monster_slayer_game_vuejs](https://user-images.githubusercontent.com/59603716/224015389-67bbad8c-9fc2-4c60-a8cb-4c6665824542.png)
+
+![monster_slayer_game_vuejs](https://user-images.githubusercontent.com/59603716/224015409-3aa2b2e5-7a21-404a-9e65-9741cde22e6a.png)
+
+![2](https://user-images.githubusercontent.com/59603716/224015420-c473c228-d743-40be-b3fb-2f45fe5109cb.PNG)
+
+
